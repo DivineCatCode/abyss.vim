@@ -2,6 +2,8 @@
 
 *abyss.vim* is a dark blue theme for vim.
 
+<img alt="abyss.vim" src="https://user-images.githubusercontent.com/41639488/99878617-2848e500-2c4a-11eb-9398-9734ab78d118.png">
+
 ## Installation
 
 1. Add `Plug 'ulwlu/abyss.vim'` in your .vimrc within vim-plug's loading function.
